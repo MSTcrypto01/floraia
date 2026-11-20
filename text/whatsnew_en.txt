@@ -1,0 +1,12 @@
+What's new in Floraia 14
+
+• A new look: soft aurora colours, Liquid Glass controls and new illustrations, in light and dark mode.
+• A daily check-in on Today: tap your mood and your usual symptoms in a second, and see your week at a glance.
+• Setup rebuilt: fewer questions, and every answer now shapes the app — your goal, your usual symptoms, your calendar and your reminders.
+• Insights show which symptoms come with each part of your cycle.
+• Pregnancy Mode redesigned: your week, your baby's size and the days to go, on one screen.
+• Kids Mode redesigned for girls under 15, with Lulu, simple words and a star for every day she logs. It stays completely separate from adult features.
+• Works with Apple Health: connect during setup or from Profile to save your period days and temperatures to the Health app.
+• App Lock can now be turned on from Profile, with a passcode and Face ID or Touch ID.
+• Your faith and calendar choices can be changed any time in Profile.
+• Arabic dates throughout, and many smaller fixes.

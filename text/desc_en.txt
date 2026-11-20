@@ -1,0 +1,65 @@
+Floraia (فلوريا) is a period, fertility and pregnancy tracker made for Muslim women, in Arabic and English. It predicts your cycle, reminds you only when it matters, and respects your faith and your privacy.
+
+PERIOD & CYCLE TRACKING
+• Log your period, flow, symptoms and moods in seconds
+• A daily check-in for your mood and the symptoms you usually get
+• Predictions for your next period, fertile window and ovulation that learn from your own cycles
+• Insights that show which symptoms come with each phase of your cycle
+• A calendar with Hijri dates that match the Umm al-Qura calendar
+• A PCOS check that explains its result and uses your logged cycles
+• Settings for every life stage, including perimenopause
+
+REMINDERS THAT RESPECT YOU
+• Period and fertile-window reminders planned two weeks ahead, so they arrive even when you don't open the app
+• No more than two a day, quiet hours at night, and every type can be switched off
+• Ghusl and qada reminders, if you want them
+
+ISLAMIC TOOLS
+• Qada calculator for the Ramadan fasts you need to make up
+• Hajj and Umrah tracking with tips for those days
+• Religious content is optional: skip it during setup and none appears
+
+PREGNANCY MODE
+• Week-by-week progress with your baby's real length and weight
+• Due date, trimester milestones and a hospital-bag reminder
+• Period alerts pause during pregnancy and the recovery time after it
+
+KIDS MODE
+• A gentle, separate experience for girls under 15, with simple words and a star for every day she logs
+• Fertility and pregnancy features stay with married adults
+
+WORKS WITH APPLE HEALTH
+• Saves your period days, spotting and basal body temperature to the Health app (HealthKit)
+• Reads the period days and temperatures you log on Apple Watch or in other apps, and adds nothing to your history without your review
+• Connect during setup or from Profile → Apple Health, and turn it off at any time
+
+WIDGET & APPLE WATCH
+• Home Screen widget, plus an Apple Watch app and watch-face complication
+
+COMMUNITY
+• Ask questions and share experiences anonymously
+
+PRIVACY
+• Your cycle data stays on your iPhone, not on our servers, and is included in your iPhone's own iCloud backup when it's on
+• No account needed
+• Lock the app with a passcode, Face ID or Touch ID
+• Delete all your data at any time
+• Apple Health data is never used for advertising
+
+FLORAIA GOLD: ONE PAYMENT, FOR LIFE
+The free version includes tracking, predictions, reminders, the calendar, the widget, Apple Watch and Apple Health, with non-personalized ads. One purchase, with no subscription, unlocks:
+• Full Pregnancy Mode
+• Temperature charting that confirms ovulation
+• Smart Health Guide
+• Advanced charts, pattern analysis and personal records
+• Doctor reports and data export
+• BMI and body insights
+• Daily personalised insights and your yearly Floraia Wrapped
+• All articles and courses
+• Qada calculator and Hajj & Umrah tracking
+• All themes
+• No ads, forever
+
+Floraia is not a method of contraception and does not diagnose medical conditions. Talk to your doctor about health decisions.
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

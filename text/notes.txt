@@ -1,0 +1,35 @@
+English
+Floraia is a period, fertility and pregnancy tracker for Muslim women. No sign-in is required, and all cycle data is stored on the device.
+
+Fixes for the 13.0.0 review:
+• Guideline 2.5.1 (HealthKit): Apple Health is now clearly identified in three places:
+  1. Setup: the last onboarding step, "Floraia works with Apple Health", explains what is saved and read, with "Connect Apple Health" and "Not now".
+  2. Profile tab: an "Apple Health" card under the plan card shows if it is connected.
+  3. Profile → Apple Health: the "Sync with Apple Health" switch, "Connect Apple Health", "Sync now" and the list of data shared.
+  Written to Health: menstrual flow, spotting, basal body temperature. Read: menstrual flow, basal body temperature. Sexual activity is never shared. HealthKit data is never used for advertising and is not sent to our servers. Kids Mode (under 15) does not use HealthKit.
+• Guideline 2.3.6: Parental Controls and Age Assurance are now set to None.
+
+New in 14.0.0: a new design that keeps the system Liquid Glass tab bar, a rebuilt onboarding, a daily check-in, redesigned Pregnancy Mode and Kids Mode, and App Lock settings.
+
+Fertility, intimacy and pregnancy features are for married adults only. Users under 15 get Kids Mode, which shows no ads and no fertility or pregnancy features.
+
+In-app purchase: one non-consumable, Floraia Gold (com.floraia.lifetime), in Profile → Floraia Gold; Restore is on the same screen. The older auto-renewable subscriptions are no longer sold in the app; they stay in App Store Connect only so existing subscribers keep their access.
+
+To test Pregnancy Mode (about 2 minutes): during setup enter an age of 18 or over and choose Married (or change it later in Profile → Marital status). Buy Floraia Gold with a sandbox account, then open Profile → Pregnancy mode.
+
+Privacy Policy, Support and Terms: https://mstcrypto01.github.io/floraia/
+
+العربية
+فلوريا تطبيق لتتبّع الدورة الشهرية والخصوبة والحمل للمرأة المسلمة. لا يتطلّب تسجيل دخول، وتُحفظ بيانات الدورة كلها على الجهاز.
+
+إصلاحات مراجعة الإصدار 13.0.0:
+• الإرشاد 2.5.1 (HealthKit): أصبح تطبيق الصحة من Apple ظاهراً بوضوح في ثلاثة أماكن: خطوة «فلوريا يعمل مع تطبيق الصحة» في آخر الإعداد، وبطاقة «تطبيق الصحة من Apple» أعلى الملف الشخصي، وشاشة الملف الشخصي ← تطبيق الصحة. يُكتب إلى تطبيق الصحة: الدورة والتنقيط وحرارة الجسم القاعدية، ويُقرأ منه: الدورة وحرارة الجسم. لا يُشارك النشاط الحميمي أبداً، ولا تُستخدم بيانات HealthKit للإعلانات ولا تُرسل إلى خوادمنا. وضع الأطفال (دون 15 عاماً) لا يستخدم HealthKit.
+• الإرشاد 2.3.6: أصبحت «الرقابة الأبوية» و«التحقق من العمر» بقيمة «لا يوجد».
+
+ميزات الخصوبة والعلاقة والحمل للمتزوجات البالغات فقط، ومن هن دون 15 عاماً يحصلن على وضع الأطفال بلا إعلانات ولا ميزات خصوبة أو حمل.
+
+الشراء داخل التطبيق: منتج واحد غير قابل للاستهلاك هو فلوريا الذهبي (com.floraia.lifetime) من الملف الشخصي ← فلوريا الذهبي، والاستعادة في الشاشة نفسها.
+
+لاختبار وضع الحمل: أدخلي عمراً 18 عاماً أو أكثر واختاري «متزوجة» أثناء الإعداد، ثم اشتري فلوريا الذهبي بحساب Sandbox وافتحي الملف الشخصي ← وضع الحمل.
+
+سياسة الخصوصية والدعم والشروط: https://mstcrypto01.github.io/floraia/
